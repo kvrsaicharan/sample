@@ -1,0 +1,19 @@
+{
+  "name": "navigationtutorial",
+  "private": true,
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "UI5 Demo App - Navigation Tutorial",
+  "dependencies": {
+    "@openui5/sap.m": "^1",
+    "@openui5/sap.ui.core": "^1",
+    "@openui5/themelib_sap_fiori_3": "^1",
+    "@sap/approuter": "^9.1.0",
+    "@sap/html5-repo-mock": "^2.0.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
